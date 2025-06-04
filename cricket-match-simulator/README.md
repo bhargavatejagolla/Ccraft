@@ -132,7 +132,7 @@ Target for Australia: 90 runs
 ## 👤 Author
 
 **Golla Bhargava Teja**  
-🌐 [https://github.com/yourusername](https://github.com/yourusername)
+🌐 [https://github.com/vhargavatejagolla](https://github.com/bhargavatejagolla)
 
 ---
 
