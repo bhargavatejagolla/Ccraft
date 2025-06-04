@@ -4,7 +4,7 @@ It includes beginner to intermediate-level programs focused on logic, structures
 
 ## projects
 - [Cricket_Match_Simulator](./cricket-match-simulator/README.md)
-- [Typing Speed Test  ](./typing_speed_test/README.md)
+
 
 ## Author
 
